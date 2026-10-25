@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="abilitysgorwmod"
+version="1.0.0"
+displayName="Abilitysgorwmod"
+description='''
+特質を扱うMODです。
+'''
+
+[[dependencies.abilitysgorwmod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.abilitysgorwmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"

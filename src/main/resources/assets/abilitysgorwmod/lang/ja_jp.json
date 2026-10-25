@@ -1,0 +1,10 @@
+{
+  "item.abilitysgorwmod.ability_obtain_item": "能力取得アイテム",
+  "item.abilitysgorwmod.special_lens": "特殊なレンズ",
+  "key.abilitysgorwmod.open_ability_gui": "能力一覧を開く",
+  "key.categories.abilitysgorwmod": "能力システム",
+  "item.abilitysgorwmod.ability_obtain_item_rare": "レア能力取得アイテム",
+  "item.abilitysgorwmod.ability_obtain_item_epic": "エピック能力取得アイテム",
+  "item.abilitysgorwmod.ability_obtain_item_legendary": "レジェンダリー能力取得アイテム",
+  "itemGroup.abilitysgorwmod": "能力システム"
+}

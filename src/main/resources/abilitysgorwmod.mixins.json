@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.coms.abilitysgorwmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "abilitysgorwmod.refmap.json",
+  "client": [
+    "HumanoidModelMixin",
+    "FirstPersonItemInHandRendererMixin",
+    "FirstPersonPlayerRendererMixin",
+    "LivingEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "ItemStackDurabilityMixin",
+    "EnderEyeItemMixin"
+  ]
+}

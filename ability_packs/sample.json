@@ -1,0 +1,22 @@
+{
+  "abilities": [
+    {
+      "id": "example:swift",
+      "name": "疾風",
+      "description": "能力が有効な間、移動速度上昇を得る。",
+      "rarity": "RARE",
+      "obtainable": true,
+      "toggleable": true,
+      "effect": { "type": "speed", "amplifier": 0, "duration": 100 }
+    },
+    {
+      "id": "example:night_sight",
+      "name": "夜目",
+      "description": "能力が有効な間、暗視を得る。",
+      "rarity": "COMMON",
+      "obtainable": true,
+      "toggleable": true,
+      "effect": { "type": "night_vision", "amplifier": 0, "duration": 300 }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "abilities": [
+    {
+      "id": "yourpack:your_ability",
+      "name": "能力名",
+      "description": "能力の説明。",
+      "rarity": "COMMON",
+      "obtainable": true,
+      "toggleable": true,
+      "effect": {
+        "type": "speed",
+        "amplifier": 0,
+        "duration": 100
+      }
+    }
+  ]
+}
